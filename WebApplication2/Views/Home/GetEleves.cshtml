@@ -1,0 +1,14 @@
+﻿@using WebApplication2.Models
+@model List<EleveVM>
+
+<table>
+    <tr>
+        <th>Identite</th>
+    </tr>
+    @foreach(var etudiant in Model)
+    {
+        <tr>
+            <td>@etudiant.Nom</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,76 @@
+﻿@using WebApplication2.Models
+@model EleveVM
+
+<h2>Details</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Nom
+        </th>
+        <th>
+            Prénom
+        </th>
+        <th>
+            Date de naissance
+        </th>
+    </tr>
+
+    <tr>
+        <td>
+            @Model.Nom
+        </td>
+        <td>
+            @Model.Prenom
+        </td>
+        <td>
+            @Model.DateNaissance
+        </td>
+    </tr>
+
+</table>
+
+<table class="table">
+    <tr>
+        <th>
+            Notes
+        </th>
+    </tr>
+
+    @foreach (var note in Model.Notes)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => note.NoteObtenue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => note.Appreciation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => note.DateNote)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<table class="table">
+    <tr>
+        <th>
+            Abscences
+        </th>
+    </tr>
+
+    @foreach (var abscence in Model.Absences)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => abscence.DateAbsence)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => abscence.Motif)
+            </td>
+        </tr>
+    }
+
+</table>

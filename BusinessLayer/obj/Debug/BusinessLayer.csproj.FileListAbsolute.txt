@@ -1,0 +1,17 @@
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\MonTp.dll
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\MonTp.pdb
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\MonTp.dll.config
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\Base.mdf
+C:\Users\Thibault\Desktop\Cours\dotNet\TP1\Save\BusinessLayer\bin\Debug\Base_log.ldf
